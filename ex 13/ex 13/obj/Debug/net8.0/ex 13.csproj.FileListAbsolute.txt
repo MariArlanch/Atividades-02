@@ -1,0 +1,14 @@
+C:\Users\SENAI2EM\Desktop\BackEnd\Atividades 02\ex 13\ex 13\bin\Debug\net8.0\ex 13.exe
+C:\Users\SENAI2EM\Desktop\BackEnd\Atividades 02\ex 13\ex 13\bin\Debug\net8.0\ex 13.deps.json
+C:\Users\SENAI2EM\Desktop\BackEnd\Atividades 02\ex 13\ex 13\bin\Debug\net8.0\ex 13.runtimeconfig.json
+C:\Users\SENAI2EM\Desktop\BackEnd\Atividades 02\ex 13\ex 13\bin\Debug\net8.0\ex 13.dll
+C:\Users\SENAI2EM\Desktop\BackEnd\Atividades 02\ex 13\ex 13\bin\Debug\net8.0\ex 13.pdb
+C:\Users\SENAI2EM\Desktop\BackEnd\Atividades 02\ex 13\ex 13\obj\Debug\net8.0\ex 13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENAI2EM\Desktop\BackEnd\Atividades 02\ex 13\ex 13\obj\Debug\net8.0\ex 13.AssemblyInfoInputs.cache
+C:\Users\SENAI2EM\Desktop\BackEnd\Atividades 02\ex 13\ex 13\obj\Debug\net8.0\ex 13.AssemblyInfo.cs
+C:\Users\SENAI2EM\Desktop\BackEnd\Atividades 02\ex 13\ex 13\obj\Debug\net8.0\ex 13.csproj.CoreCompileInputs.cache
+C:\Users\SENAI2EM\Desktop\BackEnd\Atividades 02\ex 13\ex 13\obj\Debug\net8.0\ex 13.dll
+C:\Users\SENAI2EM\Desktop\BackEnd\Atividades 02\ex 13\ex 13\obj\Debug\net8.0\refint\ex 13.dll
+C:\Users\SENAI2EM\Desktop\BackEnd\Atividades 02\ex 13\ex 13\obj\Debug\net8.0\ex 13.pdb
+C:\Users\SENAI2EM\Desktop\BackEnd\Atividades 02\ex 13\ex 13\obj\Debug\net8.0\ex 13.genruntimeconfig.cache
+C:\Users\SENAI2EM\Desktop\BackEnd\Atividades 02\ex 13\ex 13\obj\Debug\net8.0\ref\ex 13.dll
